@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @macgameur
 - 👀 I’m interested in new technologies, video games
-- 🌱 I’m currently learning C#, Unity and Blender
+- 🌱 I’m currently learning C, python, C#, Unity and Blender
 
 <!---
 macgameur/macgameur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
