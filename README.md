@@ -18,6 +18,7 @@ It is an incredible universe full of resources, it allows you to create what you
 * [Linkedin](https://www.linkedin.com/in/mac%C3%A9o-jalbert-200025222/)
 * [Portfolio](https://macgameur.github.io/)
 
+[![Vivelis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vivelis)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 macgameur/macgameur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
