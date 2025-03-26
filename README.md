@@ -32,7 +32,7 @@ Thank you for checking out my profile!
 
 ## Links
 * [Linkedin](https://www.linkedin.com/in/mac%C3%A9o-jalbert-200025222/)
-* [Portfolio](https://Vivelis.github.io/)
+* [Portfolio](https://portfolio.vivelis.eu/)
 
 [![Vivelis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vivelis&count_private=true&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vivelis&layout=compact&theme=transparent&hide=hlsl,ShaderLab,Mathematica,C%23)](https://github.com/anuraghazra/github-readme-stats)
