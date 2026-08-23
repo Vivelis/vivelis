@@ -1,10 +1,7 @@
 # Hello my name is Macéo JALBERT
 
-## Index
-* [Presentation](#presentation)
-* [Links](#links)
-
 ## Presentation FR
+
 Bonjour !  
   
 Depuis petit, j'aime comprendre comment fonctionne tout ce qui m'entoure. C'est avec cette curiosité que je suis tombé sur l'informatique.  
@@ -16,8 +13,10 @@ Je recherche un environnement dynamique et collaboratif où la qualité est valo
 Je préfère un environnement présentiel ou hybride pour maximiser ma productivité.  
   
 Merci de jeter un œil à mon profil !  
+Je vous invites a regarden mon [Portfolio](https://portfolio.vivelis.eu/)!
 
 ## Presentation EN
+
 Hello!  
   
 Since I was a kid, I like to understand how everything around me works. It is with this curiosity that I came across computer science.  
@@ -29,13 +28,18 @@ I am looking for a dynamic and collaborative environment where quality is valued
 I prefer a face-to-face or hybrid environment to maximize my productivity.  
   
 Thank you for checking out my profile!  
+Check out my [Portfolio](https://portfolio.vivelis.eu/)!
+
+---
+
+![Profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vivelis&theme=zenburn)
+![General stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vivelis&theme=zenburn)
+![Top languages by commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vivelis&theme=zenburn)
 
 ## Links
 * [Linkedin](https://www.linkedin.com/in/mac%C3%A9o-jalbert-200025222/)
 * [Portfolio](https://portfolio.vivelis.eu/)
 
-[![Vivelis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vivelis&count_private=true&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vivelis&layout=compact&theme=transparent&hide=hlsl,ShaderLab,Mathematica,C%23)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 macgameur/macgameur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
